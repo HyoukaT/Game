@@ -1,0 +1,17 @@
+{
+  "title": "เกมรักครั้งนี้ ฉันไม่มีวันแพ้",
+  "description": "คิดแปป",
+  "artist": "โดโมโตะ ยูกิ",
+  "author": "โดโมโตะ ยูกิpop[",
+  "cover": "https://i.imgur.com/8bnvLTl.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "groups": {
+        "Hyouka": "/proxy/api/imgur/chapter/OSPv15p/"
+      },
+      "last_updated": "1641395468"
+      }
+  }
+}
