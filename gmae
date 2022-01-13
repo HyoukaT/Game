@@ -1,6 +1,6 @@
 {
   "title": "เกมรักครั้งนี้ ฉันไม่มีวันแพ้",
-  "description": "คิดแปป",
+  "description": "เรื่องราวของเพื่อนสมัยเด็กที่แสนจะปากแข็งในเกมที่มีชื่อว่า “ฉันรักเธอ” ติดตามข่าวสารได้ที่เพจ https://www.facebook.com/HyoukaT",
   "artist": "โดโมโตะ ยูกิ",
   "author": "โดโมโตะ ยูกิ",
   "cover": "https://i.imgur.com/8bnvLTl.jpg",
@@ -9,9 +9,9 @@
       "title": "1",
       "volume": "1",
       "groups": {
-        "Hyouka": "/proxy/api/imgur/chapter/OSPv15p/"
+        "Hyouka": "/proxy/api/imgur/chapter/Ixf0ss6/"
       },
-      "last_updated": "1641395468"
+      "last_updated": "1642083520"
       }
   }
 }
